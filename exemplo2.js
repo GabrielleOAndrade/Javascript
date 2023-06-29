@@ -12,9 +12,12 @@ function mult(num1,num2){
     return num1 * num2
 }
 
-mensagem()
-document.writer('<br>')
-soma(10, 15)
-document.writer('<br>')
-soma(5, 10)
-document.write(mult(5,10))
+// let result = mult (4,5)
+// mensagem()
+// document.writer('<br>')
+// soma(10, 15)
+// document.writer('<br>');
+// soma(5, 10)
+// document.write('<br>');
+// document.write(mult(5,10))
+
