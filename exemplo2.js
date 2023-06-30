@@ -8,8 +8,13 @@ function soma(num1, num2) {
     document.write(`A soma de ${num1} e ${num2} é: ${num1 + num2}`)
 
 }
-function mult(num1,num2){
+function mult(num1, num2) {
     return num1 * num2
+}
+
+function media (){
+    const valor1 = document.getElementById("valor").value; 
+    document.getElementById("result").innerHTML = valor1;
 }
 
 // let result = mult (4,5)
